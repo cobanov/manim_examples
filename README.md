@@ -3,7 +3,7 @@
 
 ## Example: 
 
-![](Shapes.gif)
+<img src="Shapes.gif" width="400">
 
 ## Run 
 `python -m manim basic.py -pl`
