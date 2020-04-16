@@ -1,9 +1,11 @@
 # manim_examples
+Bu repo [3Blue1Brown](www.youtube.com/3Blue1Brown) YouTube kanalında kullanılan harika animasyonların nasıl yapıldığıyla alakalı kodlar içermektedir.
 
+[Mert Cobanov](www.youtube.com/MertCobanov) YouTube kanalında bu çalışmalar ile alakalı eğitimler verilecektir.
 
 ## Example: 
 
-<img src="Shapes.gif" width="400">
+<img src="img/Shapes.gif" width="400">
 
 ## Run 
 `python -m manim basic.py -pl`
