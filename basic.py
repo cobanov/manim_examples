@@ -1,17 +1,3 @@
-# manim_examples
-
-
-## Example: 
-
-![](Shapes.gif)
-
-## Run 
-`python -m manim basic.py -pl`
-
-
-## Code:
-```python
-
 from manimlib.imports import *
 
 class Shapes(Scene):
@@ -34,9 +20,3 @@ class Shapes(Scene):
         self.wait(0.5)
         self.play(ReplacementTransform(text, text2))
         self.wait(1)
-
-```
-
-### Video to gif 
-
-`ffmpeg -y -i Shapes.mp4 -r 31 Shapes.gif`
