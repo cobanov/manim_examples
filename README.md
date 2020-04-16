@@ -10,6 +10,8 @@ Bu repo [3Blue1Brown](www.youtube.com/3Blue1Brown) YouTube kanalında kullanıla
 ## Run 
 `python -m manim basic.py -pl`
 
+## Projects:
+
 
 ## Code:
 ```python
@@ -41,4 +43,4 @@ class Shapes(Scene):
 
 ### Video to gif 
 
-`ffmpeg -y -i Shapes.mp4 -r 31 Shapes.gif`
+`ffmpeg -y -i input.mp4 -r 31 output.gif`
