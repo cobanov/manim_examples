@@ -1,7 +1,7 @@
 # Manim Examples
-Bu repo [3Blue1Brown](www.youtube.com/3Blue1Brown) YouTube kanalında kullanılan harika animasyonların nasıl yapıldığıyla alakalı kodlar içermektedir.
+Bu repo [3Blue1Brown](https://www.youtube.com/3Blue1Brown) YouTube kanalında kullanılan harika animasyonların nasıl yapıldığıyla alakalı kodlar içermektedir.
 
-[Mert Cobanov](www.youtube.com/MertCobanov) YouTube kanalında bu çalışmalar ile alakalı eğitimler verilecektir.
+[Mert Cobanov](https://www.youtube.com/MertCobanov) YouTube kanalında bu çalışmalar ile alakalı eğitimler verilecektir.
 
 ## Example: 
 
