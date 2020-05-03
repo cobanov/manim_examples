@@ -7,7 +7,7 @@ Burada yapılan tüm çalışmalar için [manim](https://github.com/3b1b/manim) 
 
 ## Example: 
 
-<img src="img/welcome.gif" width="400">
+<center><img src="img/welcome.gif" width="400"></center>
 
 ## Note:
 Maalesef halen stable ve kolay kurulumlu bir kütüphane değil, birçok eksiği ve halledilmesi gereken problemi var. Dökümantasyonu tamamlanmış değil bu yüzden kodları okumanız gereken durumlar olabilir. Reddit ve GitHub'da komüniteyi takip edebilirsiniz. 
