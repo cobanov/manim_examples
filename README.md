@@ -18,7 +18,7 @@ Maalesef halen stable ve kolay kurulumlu bir kütüphane değil, birçok eksiği
 ## Projects:
 See other projects in [Projects](https://github.com/cobanov/manim_examples/tree/master/projects) folder.
 
-<img src="img/final.gif" width="250"> <img src="img/welcome.gif" width="250"> <img src="img/Graphing.gif" width="250"> <img src="img/updaterfunc.gif" width="250"> <img src="img/DrawCircle.gif" width="250"> <img src="img/dot_value_updater.gif" width="250">
+<img src="img/welcome.gif" width="250"> <img src="img/Graphing.gif" width="250"> <img src="img/updaterfunc.gif" width="250"> <img src="img/DrawCircle.gif" width="250"> <img src="img/dot_value_updater.gif" width="250">
 
 
 ### Video to gif 
